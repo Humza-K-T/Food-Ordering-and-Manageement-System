@@ -1,10 +1,10 @@
 # Food-Ordering-and-Manageement-System
-A food management system in C language. 
+#A food management system in C language. 
 
 
 
 
-<h1> LOGIC
+# LOGIC
 
 
 The Program is divided into 2 main parts which are further divided into multiple parts according to need.
