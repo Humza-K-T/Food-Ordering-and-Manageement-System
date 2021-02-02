@@ -4,7 +4,7 @@ A food management system in C language.
 
 
 
-<h1> LOGIC <\h1>
+<h1> LOGIC
 
 
 The Program is divided into 2 main parts which are further divided into multiple parts according to need.
