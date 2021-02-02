@@ -4,12 +4,6 @@ FoCP Semester Project
 ----------------------
 "FoodPanda Of NUST"
 ----------------------
-Group Members
---------------
-1. Humza Khawar (Leader) (343114)
-2. Ahmad Tashfeen (345308)
-3. Saad Subhani (338803)
-
 
 -------
  LOGIC 
